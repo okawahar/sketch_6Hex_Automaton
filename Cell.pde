@@ -10,7 +10,7 @@ public abstract class Ocell {
     w = w_;
   }
 }
-
+//great
 
 class Cell extends Ocell {
 
